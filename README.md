@@ -11,6 +11,9 @@ VueCli3+TypeScript实战项目-后台管理系统(element-ui)-学习视频教程
 - git commit -m "commit info"
 - git push
 
+## app run
+- npm run serve
+
 ##  進捗 
 - lesson01学習完了
 - lesson02学習 tscコンパイル
