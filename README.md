@@ -13,3 +13,6 @@ VueCli3+TypeScript实战项目-后台管理系统(element-ui)-学习视频教程
 
 <h1> 進捗</h1>
 <li>lesson01学習完了</li>
+<ul>lesson02学習 tscコンパイル</ul>
+<li>method01: tsc --init</li>
+<li>method02: plugin install⇒typescript auto compiler</li>
