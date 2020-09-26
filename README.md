@@ -6,7 +6,7 @@ VueCli3+TypeScript实战项目-后台管理系统(element-ui)-学习视频教程
 - git remote add origin git@github.com:xxx/xxx.git
 - git pull
 - git branch xxx
-- git checkout xxx #ブランチスイッチ
+- git checkout xxx 　　　　※　ブランチスイッチ
 - git add *
 - git commit -m "commit info"
 - git push
